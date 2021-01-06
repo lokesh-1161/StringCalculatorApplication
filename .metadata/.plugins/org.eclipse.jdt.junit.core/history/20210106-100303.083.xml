@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CalculatorApplicationTests (2)" project="Calculator" tests="8" started="8" failures="0" errors="0" ignored="0">
+  <testsuite name="com.example.demo.CalculatorApplicationTests" time="3.101" displayname="CalculatorApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.CalculatorApplicationTests]">
+    <testcase name="testOtherDelimiter" classname="com.example.demo.CalculatorApplicationTests" time="2.834" displayname="testOtherDelimiter()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.CalculatorApplicationTests]/[method:testOtherDelimiter()]"/>
+    <testcase name="testOverThousand" classname="com.example.demo.CalculatorApplicationTests" time="0.02" displayname="testOverThousand()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.CalculatorApplicationTests]/[method:testOverThousand()]"/>
+    <testcase name="testEmptyString" classname="com.example.demo.CalculatorApplicationTests" time="0.021" displayname="testEmptyString()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.CalculatorApplicationTests]/[method:testEmptyString()]"/>
+    <testcase name="testNegativeNumver" classname="com.example.demo.CalculatorApplicationTests" time="0.035" displayname="testNegativeNumver()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.CalculatorApplicationTests]/[method:testNegativeNumver()]"/>
+    <testcase name="testNewLine" classname="com.example.demo.CalculatorApplicationTests" time="0.027" displayname="testNewLine()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.CalculatorApplicationTests]/[method:testNewLine()]"/>
+    <testcase name="testThreeNumbers" classname="com.example.demo.CalculatorApplicationTests" time="0.044" displayname="testThreeNumbers()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.CalculatorApplicationTests]/[method:testThreeNumbers()]"/>
+    <testcase name="testTwoNumbers" classname="com.example.demo.CalculatorApplicationTests" time="0.039" displayname="testTwoNumbers()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.CalculatorApplicationTests]/[method:testTwoNumbers()]"/>
+    <testcase name="testOneNumber" classname="com.example.demo.CalculatorApplicationTests" time="0.081" displayname="testOneNumber()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.CalculatorApplicationTests]/[method:testOneNumber()]"/>
+  </testsuite>
+</testrun>
